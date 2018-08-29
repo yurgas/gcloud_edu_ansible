@@ -15,8 +15,8 @@ balancers, and configures VM instances by running simple ansible playbook.
 
 # Installation:
 1. Execute `./start.sh`
-2. Connect to WordPress using url endpoint from the output and complete installation
-3. Execute `terraform output` to get endpoints
+2. Execute `terraform output` to get endpoints
+3. Connect to sample web site using url endpoint from the output
 
 # Clearing:
 1. Execute `./delete.sh` to remove sample project from account
